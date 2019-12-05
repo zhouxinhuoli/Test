@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2868257-9214-42ef-b8ea-1590541da714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c2868257-9214-42ef-b8ea-1590541da714" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111.html" beforeDir="false" afterPath="$PROJECT_DIR$/111.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
@@ -64,7 +66,7 @@
       <updated>1575450696668</updated>
       <workItem from="1575450697922" duration="224000" />
       <workItem from="1575450960211" duration="4474000" />
-      <workItem from="1575515994895" duration="3341000" />
+      <workItem from="1575515994895" duration="10943000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1575520026453</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575520026453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1575520154557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575520154557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,10 +104,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575519509414" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1575520023566">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1575526922696">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575520023566" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575526922696" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1575517474283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -119,5 +128,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575519566807" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1575520165298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575520165298" />
   </component>
 </project>
