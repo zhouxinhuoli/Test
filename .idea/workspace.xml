@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2868257-9214-42ef-b8ea-1590541da714" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="file://$PROJECT_DIR$/111.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b2df04f9-1502-41a2-bf52-2a64bfe0eb8d" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVnasCz2VS6fQgavfyPeNkq6N0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2868257-9214-42ef-b8ea-1590541da714" name="Default Changelist" comment="" />
+      <created>1575450696668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575450696668</updated>
+      <workItem from="1575450697922" duration="224000" />
+      <workItem from="1575450960211" duration="4474000" />
+      <workItem from="1575515994895" duration="3341000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1575520026453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575520026453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1575514571156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1575514571156" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575519509414">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575519509414" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1575520023566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575520023566" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1575517474283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575517474283" />
+    <state x="465" y="237" width="375" height="207" key="Github.CreateGistDialog" timestamp="1575513725655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="237" width="375" height="207" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1575513725655" />
+    <state x="518" y="231" width="269" height="218" key="Github.ShareDialog" timestamp="1575516246617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="518" y="231" width="269" height="218" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1575516246617" />
+    <state x="511" y="46" key="Github.UntrackedFilesDialog" timestamp="1575513966235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="511" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575513966235" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1575519566807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575519566807" />
+  </component>
+</project>
